@@ -1,0 +1,10 @@
+This is an android app, in which a user can search other user location and it will show up in the map.
+
+At first , a new user create a account and signin with phonenumber and password.Then a user can see their own location with marker
+into google map.There are a floating action button, it will add user with a code that is auto generate when a user open a account.
+When a user add other user in their list, a icon is there with name and phonenumber, clicking that icon it will show that particular 
+user location in the map with marker, it will move when a user move.
+
+And a user can see other users details with picture.
+
+(There are some screenshot of my works,it will help to understand my project)
