@@ -5,6 +5,6 @@ into google map.There are a floating action button, it will add user with a code
 When a user add other user in their list, a icon is there with name and phonenumber, clicking that icon it will show that particular 
 user location in the map with marker, it will move when a user move.
 
-And a user can see other users details with picture.
+And a user can see other users last location address, information about user with picture.
 
 (There are some screenshot of my works,it will help to understand my project)
