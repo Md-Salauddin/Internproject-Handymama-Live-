@@ -1,1 +1,1 @@
-# Internproject-Handymama-Live-
+# Internship project (Handymama Live)
